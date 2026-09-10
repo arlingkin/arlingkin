@@ -33,7 +33,7 @@ vibe code but has human sense
 </p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/arlingkin/arlingkin/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/arlingkin/arlingkin@main/github-metrics.svg?refresh=1" alt="GitHub Metrics" width="100%" />
 </p>
 
 ### **Public repos:** ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arlingkin&label=repos&query=$.public_repos&color=10b981)**Followers:** ![followers](https://img.shields.io/github/followers/arlingkin?label=followers&style=flat&color=10b981)
