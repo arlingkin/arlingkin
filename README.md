@@ -29,14 +29,22 @@ vibe code but has human sense
 ## 📊 GitHub Stats (live)
 
 <p align="left">
+<img src="https://raw.githubusercontent.com/arlingkin/arlingkin/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+<p align="left">
 <img src="https://streak-stats.demolab.com/?user=arlingkin&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/arlingkin/arlingkin/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
 
-### **Public repos:** ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arlingkin&label=repos&query=$.public_repos&color=10b981)**Followers:** ![followers](https://img.shields.io/github/followers/arlingkin?label=followers&style=flat&color=10b981)
+### Real-time summary
+**Public repos:** ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arlingkin&label=repos&query=$.public_repos&color=10b981)
+**Followers:** ![followers](https://img.shields.io/github/followers/arlingkin?label=followers&style=flat&color=10b981)
+<p align="left">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farlingkin&label=Public%20Repos&query=%24.public_repos&color=10b981&style=for-the-badge&logo=github&logoColor=white" alt="repos" />
+<img src="https://img.shields.io/github/followers/arlingkin?label=Followers&style=for-the-badge&color=10b981&logo=github&logoColor=white" alt="followers" />
+<img src="https://img.shields.io/badge/Current%20Streak-1%20day-10b981?style=for-the-badge&logo=fire&logoColor=white" alt="current streak" />
+<img src="https://img.shields.io/badge/Longest%20Streak-4%20days-10b981?style=for-the-badge&logo=fire&logoColor=white" alt="longest streak" />
+</p>
 
 ## 🌐 Social Media
 
