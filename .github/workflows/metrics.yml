@@ -26,6 +26,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_lines: yes
+          plugin_repositories: yes
           plugin_achievements: yes
           plugin_achievements_threshold: C
           config_timezone: Asia/Jakarta
