@@ -1,3 +1,4 @@
+<!-- STREAK:START -->
 Hi 👋 My name is Arlingga
 =========================
 
@@ -69,3 +70,4 @@ vibe code but has human sense
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/arlingkin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<!-- STREAK:END --> 
