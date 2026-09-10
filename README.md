@@ -29,25 +29,16 @@ vibe code but has human sense
 ## 📊 GitHub Stats (live)
 
 <p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arlingkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlingkin&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
-
-<p align="left">
 <img src="https://streak-stats.demolab.com/?user=arlingkin&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
+<!-- SVG ini di-generate ulang & di-commit otomatis tiap hari oleh .github/workflows/metrics.yml,
+     lalu diserve lewat jsDelivr CDN (cache di-purge otomatis tiap run -> selalu fresh & jauh lebih stabil
+     dibanding widget vercel.app yang sering rate-limited/down). Berisi: activity calendar, top languages,
+     lines changed, dan achievement badges (pengganti trophies). -->
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arlingkin&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/arlingkin/arlingkin@main/github-metrics.svg?refresh=1" alt="GitHub Metrics" width="100%" />
 </p>
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=arlingkin&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
-<!--START_SECTION:metrics-->
-<!-- Bagian ini otomatis diisi & diperbarui setiap hari oleh GitHub Actions (metrics.yml) -->
-<!--END_SECTION:metrics-->
 
 **Public repos:** ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arlingkin&label=repos&query=$.public_repos&color=10b981)
 **Followers:** ![followers](https://img.shields.io/github/followers/arlingkin?label=followers&style=flat&color=10b981)

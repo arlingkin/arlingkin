@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '0 0 * * *'   # jalan otomatis tiap hari jam 00:00 UTC
   workflow_dispatch: {}    # bisa juga dipicu manual dari tab Actions
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'github-metrics.svg'
 
 jobs:
   update-metrics:
@@ -22,5 +26,11 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_lines: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
           config_timezone: Asia/Jakarta
           filename: github-metrics.svg
+
+      # jsDelivr cache CDN publik, purge manual biar update langsung tampak (bukan nunggu ~12-24 jam cache expire)
+      - name: Purge jsDelivr cache
+        run: curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/github-metrics.svg" || true
