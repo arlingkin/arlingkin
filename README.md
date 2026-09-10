@@ -50,7 +50,7 @@ vibe code but has human sense
   <a href="https://tiktok.com/@arlingkin" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://youtube.com/arlingkin" target="_blank">
+  <a href="https://youtube.com/@arlingkin" target="_blank">
     <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://t.me/arlingkin" target="_blank">
