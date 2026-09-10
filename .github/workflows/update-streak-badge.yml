@@ -1,0 +1,43 @@
+# .github/workflows/
+# Auto-update README streak badges tiap hari — pengganti streak-stats.demolab.com
+name: Update Streak Badge
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # tiap hari jam 01:00 UTC
+  workflow_dispatch:        # bisa trigger manual dari tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute streak
+        run: python3 github_streak.py ${{ github.repository_owner }} > streak_output.txt
+
+      - name: Update README
+        run: |
+          python3 - <<'PY'
+          import re
+          badges = open("streak_output.txt").read().split("--- Markdown badges")[1].strip("- \n")
+          readme = open("README.md").read()
+          readme = re.sub(
+              r'<!-- STREAK:START -->.*<!-- STREAK:END -->',
+              f'<!-- STREAK:START -->\n{badges}\n<!-- STREAK:END -->',
+              readme,
+              flags=re.DOTALL,
+          )
+          open("README.md", "w").write(readme)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "dependabot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update streak badge"
+          git push
