@@ -23,8 +23,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           
           # Calendar Plugin
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_isocalendar: yes
           
           # Languages Plugin
           plugin_languages: yes
@@ -33,15 +32,13 @@ jobs:
           # Lines Plugin
           plugin_lines: yes
           
-          # Repositories Plugin - Enhanced Configuration
+          # Repositories Plugin - Using correct parameter names
           plugin_repositories: yes
-          plugin_repositories_limit: 10                    # Number of repos to display (default: 6)
-          plugin_repositories_order: stargazers           # Sort by: stargazers, forks, updated, featured
-          plugin_repositories_starred: yes                # Show starred repos
-          plugin_repositories_featured: arlingkin/arlingkin  # Highlight specific repos
-          
-          # Optional: Exclude certain repos
-          plugin_repositories_exclude: archived, fork     # Exclude: archived, fork, source
+          plugin_repositories_featured: arlingkin/arlingkin
+          plugin_repositories_pinned: yes
+          plugin_repositories_starred: yes
+          plugin_repositories_order: stargazers
+          plugin_repositories_affiliations: owner
           
           config_timezone: Asia/Jakarta
           filename: github-metrics.svg
