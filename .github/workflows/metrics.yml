@@ -1,0 +1,26 @@
+name: Update Profile Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # jalan otomatis tiap hari jam 00:00 UTC
+  workflow_dispatch: {}    # bisa juga dipicu manual dari tab Actions
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: arlingkin
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_lines: yes
+          config_timezone: Asia/Jakarta
+          filename: github-metrics.svg
