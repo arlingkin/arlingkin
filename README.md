@@ -32,25 +32,31 @@ vibe code but has human sense
 <img src="https://streak-stats.demolab.com/?user=arlingkin&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
-<!-- SVG ini di-generate ulang & di-commit otomatis tiap hari oleh .github/workflows/metrics.yml,
-     lalu diserve lewat jsDelivr CDN (cache di-purge otomatis tiap run -> selalu fresh & jauh lebih stabil
-     dibanding widget vercel.app yang sering rate-limited/down). Berisi: activity calendar, top languages,
-     lines changed, dan achievement badges (pengganti trophies). -->
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/arlingkin/arlingkin@main/github-metrics.svg?refresh=1" alt="GitHub Metrics" width="100%" />
 </p>
 
-**Public repos:** ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arlingkin&label=repos&query=$.public_repos&color=10b981)
-**Followers:** ![followers](https://img.shields.io/github/followers/arlingkin?label=followers&style=flat&color=10b981)
+### **Public repos:** ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arlingkin&label=repos&query=$.public_repos&color=10b981)**Followers:** ![followers](https://img.shields.io/github/followers/arlingkin?label=followers&style=flat&color=10b981)
 
-### Socials
+## 🌐 Social Media
 
 <p align="left">
-<a href="https://www.github.com/arlingkin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.youtube.com/@arlingkin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
+  <a href="https://github.com/arlingkin" target="_blank">
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/__lingg4" target="_blank">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@arlingkin" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://youtube.com/arlingkin" target="_blank">
+    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/arlingkin" target="_blank">
+    <img src="https://img.shields.io/badge/-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
-
-**[My social media links](LINKS.md)**
 
 ### Support Me
 
