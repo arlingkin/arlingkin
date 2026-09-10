@@ -1,22 +1,16 @@
-## 🌐 Social Media Link
+## 🌐 Social Media
 
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-](https://instagram.com/__lingg4)
-[
-
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
-](https://tiktok.com/@arlingkin)
-[
-
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-](https://youtube.com/arlingkin)
-[
-
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-](https://t.me/arlingkin)
+<p align="left">
+  <a href="https://instagram.com/__lingg4" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@arlingkin" target="_blank">
+    <img src="https://cdn.simpleicons.org/tiktok/000000" width="40" height="40" alt="TikTok" />
+  </a>
+  <a href="https://youtube.com/arlingkin" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" alt="YouTube" />
+  </a>
+  <a href="https://t.me/arlingkin" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram" />
+  </a>
+</p>
