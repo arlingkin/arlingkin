@@ -1,9 +1,11 @@
-
 Hi 👋 My name is Arlingga
 =========================
+
 Web Development, frontend, backend, devops, AI engineering.
 -----------------------------------------------------------
+
 vibe code but has human sense
+
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [my site about me](http://arlingkin.web.app)
 * ✉️  You can contact me at [linggasaja03@gmail.com](mailto:linggasaja03@gmail.com)
@@ -11,6 +13,7 @@ vibe code but has human sense
 * 🧠  I'm currently learning javascript, css and html
 * 👥  I'm looking to collaborate on Modern website production
 * 💬  Ask me about Blue is my fav color
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36" /></a>
@@ -23,18 +26,24 @@ vibe code but has human sense
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="36" height="36" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="36" height="36" /></a>
 </p>
+
 ## 📊 GitHub Stats (live)
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/arlingkin/arlingkin/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
+
 <p align="left">
 <img src="https://streak-stats.demolab.com/?user=arlingkin&theme=for-the-badge&hide_border=true&card_width=280" alt="current streak" />
-</p> 
+</p>
 
 <p align="left">
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farlingkin&label=Public%20Repos&query=%24.public_repos&color=10b981&style=for-the-badge&logo=github&logoColor=white" alt="repos" />
 <img src="https://img.shields.io/github/followers/arlingkin?label=Followers&style=for-the-badge&color=10b981&logo=github&logoColor=white" alt="followers" />
+</p>
+
 ## 🌐 Social Media
+
 <p align="left">
   <a href="https://github.com/arlingkin" target="_blank">
     <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -52,5 +61,7 @@ vibe code but has human sense
     <img src="https://img.shields.io/badge/-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
+
 ### Support Me
+
 <a href="https://www.buymeacoffee.com/arlingkin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
