@@ -21,27 +21,9 @@ jobs:
           user: arlingkin
           template: classic
           base: header, activity, community, repositories, metadata
-          
-          # Calendar Plugin
           plugin_isocalendar: yes
-          
-          # Languages Plugin
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          
-          # Lines Plugin
           plugin_lines: yes
-          
-          # Repositories Plugin - Using correct parameter names
-          plugin_repositories: yes
-          plugin_repositories_featured: arlingkin/arlingkin
-          plugin_repositories_pinned: yes
-          plugin_repositories_starred: yes
-          plugin_repositories_order: stargazers
-          plugin_repositories_affiliations: owner
-          
           config_timezone: Asia/Jakarta
           filename: github-metrics.svg
-
-      - name: Purge jsDelivr cache
-        run: curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/github-metrics.svg" || true
