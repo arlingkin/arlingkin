@@ -6,10 +6,10 @@ Hi 👋 My name is Arlingga
 
 Web Development, frontend, backend, devops, AI engineering.
 -----------------------------------------------------------
+> [!NOTE]
+> **vibe code but has *human* sense**
 
-vibe code but has human sense
-
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Indonesia 🇮🇩
 * 🖥️  See my portfolio at [my site about me](http://arlingkin.web.app)
 * ✉️  You can contact me at [linggasaja03@gmail.com](mailto:linggasaja03@gmail.com)
 * 🚀  I'm currently working on [My school project](http://nufabase.web.app)
