@@ -10,12 +10,11 @@ Web Development, frontend, backend, devops, AI engineering.
 > **vibe code but has *human* sense**
 
 * 🌍  I'm based in Indonesia 🇮🇩
-* 🖥️  See my portfolio at [my site about me](http://arlingkin.web.app)
+* 🖥️  See my portfolio at [my site about me](http://arlingkin.vercel.app)
 * ✉️  You can contact me at [linggasaja03@gmail.com](mailto:linggasaja03@gmail.com)
 * 🚀  I'm currently working on [My school project](http://nufabase.web.app)
 * 🧠  I'm currently learning javascript, css and html
 * 👥  I'm looking to collaborate on Modern website production
-* 💬  Ask me about Blue is my fav color
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a>
