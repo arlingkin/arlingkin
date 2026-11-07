@@ -8,7 +8,8 @@
 
 **Web Development · Frontend · Backend · DevOps · AI Engineering**
 
-*vibe code, but with **human** sense*
+|*vibe code, but with **human** sense*|
+| --- |
 
 [![Website](https://img.shields.io/badge/website-arlingkin.vercel.app-d9ff59?style=for-the-badge&labelColor=071433)](https://arlingkin.vercel.app)
 [![Email](https://img.shields.io/badge/email-linggasaja03%40gmail.com-8ee8ff?style=for-the-badge&labelColor=071433)](mailto:linggasaja03@gmail.com)
@@ -23,11 +24,10 @@
 | | |
 | :-- | :-- |
 | 🌍 **Based in** | Indonesia 🇮🇩 |
-| 🖥️ **Portfolio** | [arlingkin.vercel.app](https://arlingkin.vercel.app) |
 | 🚀 **Working on** | [My school project](http://nufabase.web.app) |
 | 🧠 **Learning** | JavaScript, CSS and HTML |
 | 👥 **Looking to** | Collaborate on modern website production |
-| ✉️ **Contact** | [linggasaja03@gmail.com](mailto:linggasaja03@gmail.com) |
+| 🎨 **Favorite color** | Blue 💙 |
 
 ---
 
