@@ -2,6 +2,11 @@
 
 Hi 👋 My name is Arlingga
 =========================
+<p align="left">
+  <a href="https://arlingkin.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://arlingkin.vercel.app/icons/og.png" alt="Arlingkin - personal site of Arlingga" width="600">
+  </a>
+</p>
 
 Web Development, frontend, backend, devops, AI engineering.
 -----------------------------------------------------------
